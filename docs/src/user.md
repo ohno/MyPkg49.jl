@@ -16,6 +16,7 @@ MyPkg49.hello()
 ## Examples
 
 ```@example
+import MyPkg49
 text_1 = MyPkg49.hello()
 text_2 = "Goodbye, World!"
 text_1 * " " * text_2
